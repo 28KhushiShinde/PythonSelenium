@@ -1,0 +1,2 @@
+# PythonSelenium
+For learning purposes.
